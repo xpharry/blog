@@ -1,7 +1,7 @@
 ---
 title: Leetcode Weekly Contest 248 Review
 date: 2021-07-04 17:06:19
-tags: Leetcode
+categories: Leetcode
 ---
 
 ## Summary
